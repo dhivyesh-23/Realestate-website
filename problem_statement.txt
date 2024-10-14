@@ -1,0 +1,10 @@
+FSPS04: A real estate agency aims to establish a strong online presence to showcase properties and 
+attract potential buyers. They require a website with dynamic features that enable easy updating of 
+property listings, descriptions, and images without relying on technical expertise. The agency envisions 
+a user-friendly interface where staff members can seamlessly manage website content to keep it up-to
+date and engaging for visitors. 
+Create a dynamic website for real estate that prioritizes user-friendliness and simplicity in data 
+management. The solution should feature an intuitive user console where staff members can easily add, 
+edit, or remove property listings and associated details such as descriptions, images, and prices. The 
+website should provide a visually appealing and engaging experience for visitors while ensuring 
+effortless content management for non-technical users.
